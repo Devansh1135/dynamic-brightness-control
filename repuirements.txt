@@ -1,0 +1,5 @@
+mss
+numpy
+Pillow
+pystray
+screen_brightness_control
